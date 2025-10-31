@@ -31978,7 +31978,7 @@ IP(a){var s,r=this,q=null
 r.a.toString
 s=r.gMi()
 r.a.toString
-return new A.rs(q,q,q,new A.Wf(),q,q,q,q,q,B.wM,B.Ai,q,q,q,B.yp,r.gMp(),"Advanced Fliqlo Clock",q,B.FD,B.ds,q,s,q,q,B.iW,!1,!1,q,q,q,new A.jn(r,t.l9))},
+return new A.rs(q,q,q,new A.Wf(),q,q,q,q,q,B.wM,B.Ai,q,q,q,B.yp,r.gMp(),"FlipO-Cock",q,B.FD,B.ds,q,s,q,q,B.iW,!1,!1,q,q,q,new A.jn(r,t.l9))},
 Z(a){var s,r=null,q=A.JT(!1,!1,this.IP(a),r,r,r,r,!0,r,r,r,new A.Wg(),r,r)
 this.a.toString
 s=this.d
