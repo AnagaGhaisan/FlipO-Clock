@@ -11,7 +11,7 @@ class FlipClockApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: 'Advanced Fliqlo Clock',
+      title: 'FlipO-Cock',
       debugShowCheckedModeBanner: false,
       home: FlipClockScreen(),
     );
